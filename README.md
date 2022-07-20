@@ -1,6 +1,7 @@
 # KFC
 restaurant app for kfc with flutter 
-
+## login and sing up
+https://www.figma.com/file/UfPc7jvkijbcbeqZvtTcko/KFC?node-id=2%3A1
 ## hoem screen 
 ![Home](https://user-images.githubusercontent.com/92646002/180001555-9fea1e53-0ec0-40a3-b1dd-4c237144af5e.png)
 
