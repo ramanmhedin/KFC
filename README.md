@@ -1,8 +1,8 @@
-# kfc
+# KFC
+restaurant app for kfc with flutter 
 
-A new Flutter project.
-
-## Getting Started
+## hoem screen 
+![Home](https://user-images.githubusercontent.com/92646002/180001555-9fea1e53-0ec0-40a3-b1dd-4c237144af5e.png)
 
 This project is a starting point for a Flutter application.
 
